@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Ricadogovea/To_Do_Project_With_React.git/static/css/main.a191f9fc.chunk.css",
-    "main.js": "/Ricadogovea/To_Do_Project_With_React.git/static/js/main.72ff5bfd.chunk.js",
-    "main.js.map": "/Ricadogovea/To_Do_Project_With_React.git/static/js/main.72ff5bfd.chunk.js.map",
-    "runtime-main.js": "/Ricadogovea/To_Do_Project_With_React.git/static/js/runtime-main.123fb204.js",
-    "runtime-main.js.map": "/Ricadogovea/To_Do_Project_With_React.git/static/js/runtime-main.123fb204.js.map",
-    "static/js/2.ecced3dc.chunk.js": "/Ricadogovea/To_Do_Project_With_React.git/static/js/2.ecced3dc.chunk.js",
-    "static/js/2.ecced3dc.chunk.js.map": "/Ricadogovea/To_Do_Project_With_React.git/static/js/2.ecced3dc.chunk.js.map",
-    "index.html": "/Ricadogovea/To_Do_Project_With_React.git/index.html",
-    "precache-manifest.9845e218d8c249df7fb8760a94703105.js": "/Ricadogovea/To_Do_Project_With_React.git/precache-manifest.9845e218d8c249df7fb8760a94703105.js",
-    "service-worker.js": "/Ricadogovea/To_Do_Project_With_React.git/service-worker.js",
-    "static/css/main.a191f9fc.chunk.css.map": "/Ricadogovea/To_Do_Project_With_React.git/static/css/main.a191f9fc.chunk.css.map",
-    "static/js/2.ecced3dc.chunk.js.LICENSE.txt": "/Ricadogovea/To_Do_Project_With_React.git/static/js/2.ecced3dc.chunk.js.LICENSE.txt"
+    "main.css": "/To_Do_Project_With_React/static/css/main.a191f9fc.chunk.css",
+    "main.js": "/To_Do_Project_With_React/static/js/main.fb55885d.chunk.js",
+    "main.js.map": "/To_Do_Project_With_React/static/js/main.fb55885d.chunk.js.map",
+    "runtime-main.js": "/To_Do_Project_With_React/static/js/runtime-main.120e6b61.js",
+    "runtime-main.js.map": "/To_Do_Project_With_React/static/js/runtime-main.120e6b61.js.map",
+    "static/js/2.ecced3dc.chunk.js": "/To_Do_Project_With_React/static/js/2.ecced3dc.chunk.js",
+    "static/js/2.ecced3dc.chunk.js.map": "/To_Do_Project_With_React/static/js/2.ecced3dc.chunk.js.map",
+    "index.html": "/To_Do_Project_With_React/index.html",
+    "precache-manifest.8e639e13cbd98858a581d598fc9d5a19.js": "/To_Do_Project_With_React/precache-manifest.8e639e13cbd98858a581d598fc9d5a19.js",
+    "service-worker.js": "/To_Do_Project_With_React/service-worker.js",
+    "static/css/main.a191f9fc.chunk.css.map": "/To_Do_Project_With_React/static/css/main.a191f9fc.chunk.css.map",
+    "static/js/2.ecced3dc.chunk.js.LICENSE.txt": "/To_Do_Project_With_React/static/js/2.ecced3dc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.123fb204.js",
+    "static/js/runtime-main.120e6b61.js",
     "static/js/2.ecced3dc.chunk.js",
     "static/css/main.a191f9fc.chunk.css",
-    "static/js/main.72ff5bfd.chunk.js"
+    "static/js/main.fb55885d.chunk.js"
   ]
 }
